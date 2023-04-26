@@ -2,7 +2,7 @@
 
 ## Teste
 
-Para poder estar realizando os testes pode ser feito o download do repósitorio em questão e estar subindo localmente através do Intellij.
+Para poder estar realizando os testes pode ser feito o download do repósitorio em questão e estar subindo localmente através do Intellij JAVA 17.
 
 Para questões de banco de dados foi utilizando Postgres.
 Nesse repositório se encontra o arquivo script.sql que contém os scripts para criação das bases e também das tabelas.
